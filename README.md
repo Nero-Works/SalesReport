@@ -52,7 +52,3 @@ SalesReport/
 ├── purchases.csv
 └── README.md
 ```
-
----
-
-**Sales Report** · Version 1.0
