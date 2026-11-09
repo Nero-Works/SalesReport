@@ -18,27 +18,30 @@ Sales Report is a project designed to manage product and purchase data, calculat
 ## Requirements
 
 - Python
-- Git (optional)
+- Git (optional, for cloning)
+
+## Download or Clone
+
+**Option 1: Download**
+
+Download the repository as a ZIP file using the **Code → Download ZIP** button on GitHub, then extract the files.
+
+**Option 2: Clone**
+
+Clone the repository using Git:
+
+```bash
+git clone https://github.com/Nero-Works/SalesReport.git
+```
 
 ## How to Run
 
-1. Clone the repository:
+1. Open the project folder.
+2. Run the application:
 
-   ```bash
-   git clone https://github.com/Nero-Works/SalesReport.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd SalesReport
-   ```
-
-3. Run the application:
-
-   ```bash
-   python SalesReport.py
-   ```
+```bash
+python SalesReport.py
+```
 
 ## Project Structure
 
