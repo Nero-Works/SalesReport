@@ -1,78 +1,55 @@
 # Sales Report
 
-**A Python application for processing and analyzing sales data.**
+A Python application for processing and analyzing sales data.
 
-Sales Report is a project focused on importing, processing and analyzing product and purchase data. It aims to simplify sales calculations and present financial results in a clear format.
+## About
 
-## ✨ Features
+Sales Report is a project designed to manage product and purchase data, calculate financial results and generate sales reports.
 
-- Product and purchase data handling
-- CSV file importing
+## Features
+
+- CSV data importing
 - Data validation
-- Revenue and cost calculations
-- Profit analysis
-- Sales reports
+- Revenue and profit calculations
+- Sales summaries
 
-> Some features are still planned and will be implemented during development.
+*The project is currently under development.*
 
-## 🛠️ Technologies
+## Requirements
 
-- Python 3
-- CSV
+- Python
+- Git (optional)
 
-## 📋 Requirements
+## How to Run
 
-Before running the application, make sure you have:
+1. Clone the repository:
 
-- Python 3.10 or newer
-- Git (optional, for cloning the repository)
+   ```bash
+   git clone https://github.com/Nero-Works/SalesReport.git
+   ```
 
-## 🚀 Installation & Usage
+2. Open the project folder:
 
-### 1. Clone the repository
+   ```bash
+   cd SalesReport
+   ```
 
-```bash
-git clone https://github.com/Nero-Works/SalesReport.git
-```
+3. Run the application:
 
-### 2. Open the project directory
+   ```bash
+   python SalesReport.py
+   ```
 
-```bash
-cd SalesReport
-```
-
-### 3. Run the application
-
-```bash
-python SalesReport.py
-```
-
-## 📁 Project Structure
+## Project Structure
 
 ```text
 SalesReport/
-│
 ├── SalesReport.py
 ├── products.csv
 ├── purchases.csv
 └── README.md
 ```
 
-## 📊 Project Status
-
-**In Development**
-
-Sales Report is currently under development. New features and improvements will be added gradually.
-
-## 🎯 Goals
-
-- Improve Python programming skills
-- Learn practical data processing
-- Build a functional desktop application
-- Develop better programming practices
-
 ---
 
-<p align="center">
-  <sub>Sales Report · Version 1.0</sub>
-</p>
+**Sales Report** · Version 1.0
